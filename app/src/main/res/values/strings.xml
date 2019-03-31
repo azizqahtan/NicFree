@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aziz</string>
+    <string name="tab_text_1">INFO</string>
+    <string name="tab_text_2">QUIT NOW</string>
+    <string name="tab_text_3">PLAY GAME</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="button">ClickMe</string>
+
+    <string name="author1">\n \n Facts from The World Health Organization</string>
+    <string name="textview">\n • The resting heart rates of young adult smokers are two to three beats per minute faster than nonsmokers</string>
+    <string name="textview2">\n • Smoking at an early age increases the risk of lung cancer. For most smoking-related cancers, the risk rises as the individual continues to smoke</string>
+    <string name="textview3">\n • Teenage smokers are more likely to have seen a doctor or other health professionals for an emotional or psychological complaint</string>
+    <string name="textview4">\n • Teens who smoke are three times more likely than nonsmokers to use alcohol, eight times more likely to use marijuana, and 22 times more likely to use cocaine. Smoking is associated with a host of other risky behaviors, such as fighting and engaging in unprotected sex</string>
+    <string name="textview5">\n • Among young people, the short-term health consequences of smoking include respiratory and non respiratory effects, addiction to nicotine, and the associated risk of other drug use. Long-term health consequences of youth smoking are reinforced by the fact that most young people who smoke regularly continue to smoke throughout adulthood.(1) Cigarette smokers have a lower level of lung function than those persons who have never smoked.(1) Smoking reduces the rate of lung growth</string>
+    <string name="textview6">We know how hard it is to quit smoking, that\'s why we believe we you shouldn\'t do it alone!</string>
+    <string name="email_me_updates">Email Me Updates</string>
+    <string name="textview7">We highly reccommend you checkout <a href="https://www.quit.com/quit-smoking/prepare/smoking-cessation-tool.html?gclid=Cj0KCQjwyoHlBRCNARIsAFjKJ6Dfsr4D4FvDwR75Az8_oy94VOAmE5A_l5nHk6rH1ozlDbnLglGUoZoaAtUjEALw_wcB&amp;gclsrc=aw.ds"> QUIT </a></string>
+    <string name="text_me_updates">Text Me Updates</string>
+</resources>
