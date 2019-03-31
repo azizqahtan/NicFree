@@ -15,6 +15,7 @@
     <string name="textview5">\n • Among young people, the short-term health consequences of smoking include respiratory and non respiratory effects, addiction to nicotine, and the associated risk of other drug use. Long-term health consequences of youth smoking are reinforced by the fact that most young people who smoke regularly continue to smoke throughout adulthood.(1) Cigarette smokers have a lower level of lung function than those persons who have never smoked.(1) Smoking reduces the rate of lung growth</string>
     <string name="textview6">We know how hard it is to quit smoking, that\'s why we believe we you shouldn\'t do it alone!</string>
     <string name="email_me_updates">Email Me Updates</string>
-    <string name="textview7">We highly reccommend you checkout <a href="https://www.quit.com/quit-smoking/prepare/smoking-cessation-tool.html?gclid=Cj0KCQjwyoHlBRCNARIsAFjKJ6Dfsr4D4FvDwR75Az8_oy94VOAmE5A_l5nHk6rH1ozlDbnLglGUoZoaAtUjEALw_wcB&amp;gclsrc=aw.ds"> QUIT </a></string>
+    <string name="textview7">We highly reccommend you checkout <a href="https://www.quit.com/quit-smoking/prepare/smoking-cessation-tool.html?gclid=Cj0KCQjwyoHlBRCNARIsAFjKJ6Dfsr4D4FvDwR75Az8_oy94VOAmE5A_l5nHk6rH1ozlDbnLglGUoZoaAtUjEALw_wcB&amp;gclsrc=aw.ds"> QUIT </a>and <a href="https://smokefree.gov/">Smoke Free</a> to aid you</string>
     <string name="text_me_updates">Text Me Updates</string>
+    <string name="textview8">The developers at NicFree created a game to help you have fun during you Nicotine fast!</string>
 </resources>
